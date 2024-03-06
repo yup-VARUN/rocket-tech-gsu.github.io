@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   like thrust vector systems, entire control system architectures
   for the aerospace industry, and our own flight computers,
   running our own flight software developed from scratch.
-baseurl: "/rocket-tech-gsu.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rocket-tech-gsu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  rocket-tech-gsu
