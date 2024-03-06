@@ -35,4 +35,3 @@ If you want to make changes to the website, here's how:
 - Make a pull request when you're ready to contribute code to the production version of the website.
 - Ping either @varun169 or @cartermath in Discord to review the pull request if we're taking more than an hour or two. (Don't spam us repeatedly though, please.)
 - A GitHub Actions workflow will run once we merge the pull request, and within a few minutes you should see the changes go live.
-- 
