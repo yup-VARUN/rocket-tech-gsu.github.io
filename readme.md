@@ -1,4 +1,4 @@
-# Website editing
+# Website Editing("how to contribute–step by step")
 If you want to make changes to the website, here's how:
 
 ## Step 1: Forking the central repository.
