@@ -8,6 +8,9 @@ permalink: /about/
 
 [Join the organization on PIN](https://pin.gsu.edu/organization/rocket_tech)
 
+We meet on Fridays at 6pm in Aderhold room 300.
+Feel free to drop by these meetings -- there are no required commitments.
+
 # Our team
 
 Our *Executive Board* comprises dedicated members of the organization who work to ensure the success of Rocket Technologies GSU.
