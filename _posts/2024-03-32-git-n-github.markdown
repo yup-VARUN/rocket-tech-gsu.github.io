@@ -4,12 +4,14 @@ title: "How to project contributions? (git & GitHub as consicely as possible)"
 date: 2024-03-31 00:00:00 +0000
 author: Varun Ahlawat
 ---
+<link rel="stylesheet" href="../assets/styles.css">
+
 # Context:<br>
 <i>If you have zero experience of software development and want to get some then following this article will be your <b>STEP-1</b></i>
 - **Git** = A piece of code that you've to download which keep track of every single change you do in a folder.
 - **GitHub** = A cloud platform connected to everyone else's computer by internet. Organizations store their lines of code on GitHub. <br> 
   - It enables individuals to interact/exchange stuff with the main codebase. 
-  - You create an account on GitHub. Now you can create a <b><u>copy of any organization's code into your account</b></u>*, this process is called **"forking"**.
+  - You create an account on GitHub. Now you can create a <b><u>copy of any organization's code into your account</u></b>*, this process is called **"forking"**.
 <hr>
 To begin, you first need to have certain things in your computer:
 
@@ -23,10 +25,26 @@ To begin, you first need to have certain things in your computer:
   - Download and install Visual Studio Code in your system.
 <hr>
 
-# Think of everything as features.
+
+# Think of everything as features:
 **A project is nothing but a bunch of features.**
 - Different people code different features.
 - You'll most probably make a feature in the software that doesn't exist yet.
-- So what did we learn here? 
-  - There's a main codebase, on GitHub, which 
-  - There's a fork of that codebase
+- So what did we learn here?
+  - There's a main codebase of the organization, on GitHub, which every team member(if allowed) can access to and suggest some changes in it.
+  - There's a fork(in an individual's GitHub account) of that codebase:
+    - Let's see how these things looks
+
+<!-- 
+<div style="display:flex;">
+  <img src="../assets/pages/git/image.png" alt="Image 1" style="margin-right:10px;">
+  <img src="../assets/pages/git/image copy.png" alt="Image 2">
+</div> -->
+
+<img class="limit" src="../assets/pages/git/image copy 2.png" style="margin-right:10px;"><br>
+Some of the things in Rocket Tech's Account will be:<br>
+<img class ="limit" src="../assets/pages/git/image copy 3.png" style="margin-right:10px;">
+
+| rocket-tech-GSU/HPR_LVL1:      | rocke-tech-gsu/GroupProject_1: |
+| ----------- | ----------- |
+| <img src="../assets/pages/git/image.png" alt="Image 1" style="margin-right:10px;"> | <img src="../assets/pages/git/image copy.png" alt="Image 2"> |

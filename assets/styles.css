@@ -1,0 +1,15 @@
+body {
+        max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+
+/* Set a maximum width for the image at a specific viewport width */
+@media (min-width: 768px) {
+    .limit {
+    max-width: 600px; /* Adjust this value to your desired maximum size */
+    }
+}
