@@ -50,15 +50,7 @@ Some of the things in Rocket Tech's Account will be:<br>
 <div>
   <img class ="limit" src="/assets/pages/git/image copy 3.png" style="margin-right:10px;">
 </div>
-
-<div class="team-member">
-        <img class="headshot" src="/assets/pages/about/Carter Hinsley.jpg" alt="Carter Hinsley">
-        <h3>Carter Hinsley</h3>
-        <p>Advisor &amp; Mentor</p>
-        <a href="https://www.linkedin.com/in/carter-hinsley-68a49216a/" target="_blank"><img class="social" src="/assets/pages/about/LinkedIn icon.png" alt="LinkedIn"></a>
-        <a href="https://github.com/hinsley" target="_blank"><img class="social" src="/assets/pages/about/GitHub icon.png" alt="GitHub"></a>
-</div>
   
 | rocket-tech-GSU/HPR_LVL1:      | rocke-tech-gsu/GroupProject_1: |
 | ----------- | ----------- |
-| <img src="../assets/pages/git/image.png" alt="Image 1" style="margin-right:10px;"> | <img src="../assets/pages/git/image copy.png" alt="Image 2"> |
+| <img src="/assets/pages/git/image.png" alt="Image 1" style="margin-right:10px;"> | <img src="/assets/pages/git/image copy.png" alt="Image 2"> |
