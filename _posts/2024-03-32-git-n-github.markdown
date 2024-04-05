@@ -41,22 +41,23 @@ To begin, you first need to have certain things in your computer:
   <img src="../assets/pages/git/image copy.png" alt="Image 2">
 </div> -->
 
+
+
 <div>
-  <img class="limit" src="../assets/pages/git/image copy 2.png" alt="image1"><br>
+  <img class="limit" src="/assets/pages/git/image copy 2.png" style="margin-right:10px;"><br>
 </div>
 Some of the things in Rocket Tech's Account will be:<br>
 <div>
-  <img class ="limit" src="../assets/pages/git/image copy 3.png" alt="image2">
+  <img class ="limit" src="/assets/pages/git/image copy 3.png" style="margin-right:10px;">
 </div>
 
-<!--<div class="team-member">
+<div class="team-member">
         <img class="headshot" src="/assets/pages/about/Carter Hinsley.jpg" alt="Carter Hinsley">
         <h3>Carter Hinsley</h3>
         <p>Advisor &amp; Mentor</p>
         <a href="https://www.linkedin.com/in/carter-hinsley-68a49216a/" target="_blank"><img class="social" src="/assets/pages/about/LinkedIn icon.png" alt="LinkedIn"></a>
         <a href="https://github.com/hinsley" target="_blank"><img class="social" src="/assets/pages/about/GitHub icon.png" alt="GitHub"></a>
 </div>
--->
   
 | rocket-tech-GSU/HPR_LVL1:      | rocke-tech-gsu/GroupProject_1: |
 | ----------- | ----------- |
