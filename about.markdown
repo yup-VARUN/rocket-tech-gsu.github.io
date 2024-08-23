@@ -9,6 +9,8 @@ permalink: /about/
 
 # Why do we exist?
 
+<hr>
+
 To prove that the academia could also be made enjoyable while preparing us for real life! Say you want to learn finance, what better way to learn it by managing finance of a rocket company?(or in this case a student organization)?
 
 You see, our operations are more than that of a just student club. Future cinematographers, digital marketeers, human resource, lawyers, physicists, chemists, mathematicians, software engineers, aerospace engineers get to live their future right now, at Rocket Tech!
@@ -20,11 +22,16 @@ It was officially registered in Spring2024, however, began operations in the win
 
 # Fall2024 Meeting Schedule
 
+<hr>
+
 - A new Schedule will be up soon. If you've joined us on PIN, you'll be notified about all our events via email.
 - Feel free to drop by any of our general meetings -- there are no strict requirements.
 - Last semester we met every single week, our meetings were like that of a close family of excited individuals.
 
+
 # Our Executive Board
+
+<hr>
 Apply for open board positions [here](https://forms.gle/3BC4WtEvXc1e6k9W9).
 
 Application Deadline: **September, 7th**
