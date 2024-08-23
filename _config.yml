@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rocket Tech GSU
-email: chinsley1@gsu.edu
+title: Rocket Technologies GSU
+email: rockettechgsu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A community of makers who want to make and launch model rockets,
-  interplanetary rovers like the Mars rover, develop technologies
-  like thrust vector systems, entire control system architectures
-  for the aerospace industry, and our own flight computers,
+  A community of makers who make and launch model rockets,
+  develop cool technologies like thrust vector systems, 
+  our own flight computers, and
   running our own flight software developed from scratch.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rocket-tech-gsu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  rocket-tech-gsu
+instagram_username: rockettech.gsu
 
 # Build settings
 theme: minima
