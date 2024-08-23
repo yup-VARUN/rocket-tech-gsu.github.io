@@ -64,6 +64,8 @@ Besides On-Campus Advisors & Mentors there are the following departments:
 
 ***Application Deadline: September, 2nd Week, 2024***
 
+### Current Student Leaders:
+
 <style>
     .team-container {
         display: flex;
