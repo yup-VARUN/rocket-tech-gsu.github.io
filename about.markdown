@@ -91,7 +91,7 @@ Besides On-Campus Advisors & Mentors there are the following departments:
 
 <div class="team-container">
     <div class="team-member">
-        <img class="headshot" src="/assets/pages/about/Varun Ahlawat.jpg" alt="Varun Ahlawat">
+        <img class="headshot" src="/assets/pages/about/VarunAhlawat.jpg" alt="Varun Ahlawat">
         <h3>Varun Ahlawat</h3>
         <p>President</p>
         <a href="https://www.linkedin.com/in/varun-ahlawat/" target="_blank"><img class="social" src="/assets/pages/about/LinkedIn icon.png" alt="LinkedIn"></a>
