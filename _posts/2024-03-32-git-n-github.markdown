@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to project contributions? (git & GitHub as consicely as possible)"
+title: "How to do project contributions? (git & GitHub as consicely as possible)"
 date: 2024-03-31 00:00:00 +0000
 author: Varun Ahlawat
 ---
