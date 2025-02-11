@@ -63,5 +63,7 @@ Please consider joining us!
   <img src="/assets/posts/2025-02-11/launch_photo_2.webp" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-02-11/launch_photo_3.webp" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-02-11/launch_photo_4.webp" style="margin-bottom: 8px;">
-  <img src="/assets/posts/2025-02-11/launch_photo_5.webp">
+  <img src="/assets/posts/2025-02-11/launch_photo_5.webp" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-02-11/launch_photo_6.jpeg" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-02-11/launch_photo_7.jpeg">
 </div>
