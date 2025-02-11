@@ -39,20 +39,20 @@ To begin, you first need to have certain things in your computer:
 
 <!-- 
 <div style="display:flex;">
-  <img src="../assets/pages/git/image.png" alt="Image 1" style="margin-right:10px;">
-  <img src="../assets/pages/git/image copy.png" alt="Image 2">
+  <img src="../assets/posts/2024-03-32/image.png" alt="Image 1" style="margin-right:10px;">
+  <img src="../assets/posts/2024-03-32/image copy.png" alt="Image 2">
 </div> -->
 
 
 
 <div>
-  <img class="limit" src="/assets/pages/git/image copy 2.png" style="margin-right:10px;"><br>
+  <img class="limit" src="/assets/posts/2024-03-32/image copy 2.png" style="margin-right:10px;"><br>
 </div>
 Some of the things in Rocket Tech's Account will be:<br>
 <div>
-  <img class ="limit" src="/assets/pages/git/image copy 3.png" style="margin-right:10px;">
+  <img class ="limit" src="/assets/posts/2024-03-32/image copy 3.png" style="margin-right:10px;">
 </div>
   
 | rocket-tech-GSU/HPR_LVL1:      | rocke-tech-gsu/GroupProject_1: |
 | ----------- | ----------- |
-| <img src="/assets/pages/git/image.png" alt="Image 1" style="margin-right:10px;"> | <img src="/assets/pages/git/image copy.png" alt="Image 2"> |
+| <img src="/assets/posts/2024-03-32/image.png" alt="Image 1" style="margin-right:10px;"> | <img src="/assets/posts/2024-03-32/image copy.png" alt="Image 2"> |

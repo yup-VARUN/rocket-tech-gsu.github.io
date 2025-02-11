@@ -56,3 +56,12 @@ at each launch for all those who wish to pilot their own rockets.
 Because ROSCO launches are a monthly scheduled event, we have many
 opportunities for new club members to get hands-on experience.
 Please consider joining us!
+
+# Photos
+<div>
+  <img src="../assets/posts/2025-02-11/launch_photo_1.webp" style="margin-bottom: 8px;">
+  <img src="../assets/posts/2025-02-11/launch_photo_2.webp" style="margin-bottom: 8px;">
+  <img src="../assets/posts/2025-02-11/launch_photo_3.webp" style="margin-bottom: 8px;">
+  <img src="../assets/posts/2025-02-11/launch_photo_4.webp" style="margin-bottom: 8px;">
+  <img src="../assets/posts/2025-02-11/launch_photo_5.webp" style="margin-bottom: 8px;">
+</div>
