@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Spring 2025 Schedule:"
+date: 2024-03-31 00:00:00 +0000
+author: Varun Ahlawat
+---
+# Rocket Launch Schedule
+
+|   Rocket Launch Type            | Date    | Venue |   
+|----------------------------|----------------------------|----------------------------|
+| Level 1 Certification Launches | Feb 9th            | ROSCO Launch Site, South Carolina, USA|
+| Level 2 Certification Launches, and More of Level 1s|  March 8th/9th |ROSCO Launch Site, South Carolina, USA |
+
+# Meeting Schedule
+Rocket Tech is **the most consistent club in the history of Georgia State University!** 
+We officially meet every single week. We've done this for more than a year, from the week 1! 
+
+| Official Meetings                              | Unofficial Meetings         |
+|------------------------------------------------|-----------------------------|
+| **General Club Meetings:** Every Friday, 5pm-6:30pm, Classroom South #150 | As required, discord          |
+| **Design Team Meetings:** Will be updated soon | As required, discord/Ex-Lab/Library          |
+| **Avionics Team Meetings:** Will be updated soon | As required, discord/Ex-Lab/Library          |
+| **Software Team Meetings:** Will be updated soon | As required, discord/Ex-Lab/Library          |
+
+
+## Our Guiding Philosophy:
+- Consistency > anything else
+- If you can meet a few basic criterias, you will end up unlocking the best in your career:
+  - **Show Up**–in every meeting,
+  - **Be Active**–on the server with other people,
+  - **Learn**–something new everyday,
+  - **Apply**–contribute from what you learned
+
+- Although our projects are intimidating, **we leave none of our members behind**! If you'll join us and be willing, greatness will be inevitable!
+  - We are a community driven by growth of every individual, you'll have to experience it for yourself.
+- Competitive Team Spirit: Our goal is to compete in the prestigious international rocketry competitions:
+  - IREC
+  - NASA Student Launch
+
+<hr>
+
+### Memories of our first two meetings ever(setting the stage):
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
