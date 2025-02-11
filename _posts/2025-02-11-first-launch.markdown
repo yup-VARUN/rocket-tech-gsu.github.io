@@ -15,19 +15,22 @@ This past weekend, several of our members attended the Southern Area Rocketry
 We launched two successful rockets, each of which achieved a NAR
 High-Powered Rocketry Level 1 Certification for its respective pilot:
 - *Jigless Fin* (Varun Ahlawat)
-  <iframe width="315" height="560"
-  src="https://www.youtube.com/embed/PixNQjdqP4U"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/PixNQjdqP4U"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
 - *Zeus' Crayon* (Chisom Maxwell)
-  <iframe width="315" height="560"
-  src="https://www.youtube.com/embed/krYbgkkfjIM"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/krYbgkkfjIM"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 Congratulations to Chisom and Varun, and thank you to all others who supported
 the development of these rockets and assisted with the launch!
