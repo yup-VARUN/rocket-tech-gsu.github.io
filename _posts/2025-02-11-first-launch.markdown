@@ -4,8 +4,8 @@ title: "Our first ROSCO launch and NAR HPR Level 1 Certifications"
 date: 2025-02-11 00:00:00 +0000
 author: Carter Hinsley
 ---
-This past weekend, several of our members attended the Southern Area Rocketry
-(SoAR) ROSCO launch in Dalzell, South Carolina:
+This past Sunday, several of our members attended the Southern Area Rocketry
+(SoAR) [ROSCO launch in Dalzell, South Carolina](https://www.rocketrysouthcarolina.org/pages/launchsite/):
 - Brian Nee
 - Chisom Maxwell
 - Enedelia Garcia-Romero
@@ -14,7 +14,9 @@ This past weekend, several of our members attended the Southern Area Rocketry
 
 We launched two successful rockets, each of which achieved a NAR
 High-Powered Rocketry Level 1 Certification for its respective pilot:
-- *Jigless Fin* (Varun Ahlawat)
+- *Jigless Fin* (Varun Ahlawat): A modification of the [Madcow Torrent kit](https://www.apogeerockets.com/Rocket-Kits/Skill-Level-3-Model-Rocket-Kits/Torrent) with fiberglass-reinforced fin can section.
+  We used steel BB pellets and epoxy for nosecone weighting.
+  For propulsion, we used [a reusable I-class motor from Aerotech](https://www.apogeerockets.com/Rocket_Motors/AeroTech_Motors/38mm_Propellant_Kits/38_360_Kits/Aerotech_38mm_Propellant_Kit_I218R-M).
 
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/PixNQjdqP4U"
@@ -23,7 +25,7 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>
 
-- *Zeus' Crayon* (Chisom Maxwell)
+- *Zeus' Crayon* (Chisom Maxwell): A [LOC-IV kit](https://www.apogeerockets.com/Rocket_Kits/Skill_Level_3_Kits/LOC_IV) rocket with H-class one-time-use motor.
 
 <iframe width="315" height="560"
 src="https://www.youtube.com/embed/krYbgkkfjIM"
@@ -34,6 +36,8 @@ allowfullscreen></iframe>
 
 Congratulations to Chisom and Varun, and thank you to all others who supported
 the development of these rockets and assisted with the launch!
+We extend a special thank-you to the UGA AIAA chapter leadership for advice and
+feedback which helped us to get started.
 
 We did have another attempted launch of *Jigless Fin* at the SoAR Turkey &
 GRITS launch site in Nashville, Georgia in November 2024, but the avionics we
@@ -54,7 +58,8 @@ We will continue to certify club members with HPR Level 1 certifications
 at each launch for all those who wish to pilot their own rockets.
 
 Because ROSCO launches are a monthly scheduled event, we have many
-opportunities for new club members to get hands-on experience.
+opportunities for new club members to receive mentorship and get hands-on
+experience.
 Please consider joining us!
 
 # Photos
@@ -65,5 +70,7 @@ Please consider joining us!
   <img src="/assets/posts/2025-02-11/launch_photo_4.webp" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-02-11/launch_photo_5.webp" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-02-11/launch_photo_6.jpeg" style="margin-bottom: 8px;">
-  <img src="/assets/posts/2025-02-11/launch_photo_7.jpeg">
+  <img src="/assets/posts/2025-02-11/launch_photo_7.jpeg" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-02-11/launch_photo_8.jpeg">
 </div>
+
