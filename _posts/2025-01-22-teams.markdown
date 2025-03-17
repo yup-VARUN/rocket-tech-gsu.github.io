@@ -60,15 +60,12 @@ AVIO MK 1:
 <img src="/assets/pages/teams/image-4.png" alt="AVIO MK 1" style="max-width: 100%;">
 <img src="/assets/pages/teams/image-6.png" alt="AVIO MK 1" style="max-width: 100%;">
 
-# 3. Software Team: Brain of the Rocket
-Oh boy! Where do I even start. 
-So for context, aerospace includes A LOTS, I mean A LOTS of sophisticated software. If you can make friends with the people on our server, withstand the initial pain, you will end up becoming an undoubtedly a great software engineer! 
-Like for context, we haven't even fully finished any of our software just yet and one of our members who did just a few internship applications already got hired by for this summer as a software engineer.
+# 3. Software Team
 
 ## Current Software Projects:
 ### Guidance Navigation Control: [GNC_to_the_moon](https://github.com/rocket-tech-gsu/GNC_to_the_moon)
 - 1. Guidance Software:
-  - A software that calculates the optimal path for a mission. It is required for mission planning. It also live generate/adjust for joining the path to connect where the Rocket is currently to stay closest to the original path.
+  - Software that calculates the optimal path for a mission. It is required for mission planning. It also live generate/adjust for joining the path to connect where the Rocket is currently to stay closest to the original path.
   <img src="/assets/pages/teams/image-12.png" alt="Guidance Software" style="max-width: 100%;">
   *Image credits: RocketLab*
 - 2. Navigation Software:
