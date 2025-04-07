@@ -24,14 +24,18 @@ The Rockets were for certifications, for the following members:
 
 ### Photos:
 <div style="text-align: center;">
-  <img src="/assets/posts/2025-04-05/keara.png" style="margin-bottom: 8px;">
-  <img src="/assets/posts/2025-04-05/barry.png" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-04-05/keara.JPG" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-04-05/barry.JPG" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-04-05/Kearas.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/kearas.png" style="margin-bottom: 8px;">
-  <img src="/assets/posts/2025-04-05/chisom.png" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-04-05/chisom.JPG" style="margin-bottom: 8px;">
 </div>
 
 ## HPR Level-2 Flights and Learnings:
-![alt text](image.png)
+<div>
+  <img src="/assets/posts/2025-04-05/Screenshot 2025-04-07 at 3.18.09 PM.png" style="margin-bottom: 8px;">
+</div>
+
 - Varun's Level-2 Rocket had a perfect flight:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qACj-c9Kn5M?si=p9vvqWlr5tEHdUsF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,8 +53,8 @@ The Rockets were for certifications, for the following members:
 
 ### Photos:
 <div style="text-align: center;">
-  <img src="/assets/posts/2025-04-05/Screenshot 2025-04-07 at 3.18.09 PM.png.png" style="margin-bottom: 8px;">
-  <img src="/assets/posts/2025-04-05/level2_launch.png.png" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-04-05/Screenshot 2025-04-07 at 3.18.09 PM.png" style="margin-bottom: 8px;">
+  <img src="/assets/posts/2025-04-05/level2_launch.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/LandingArea.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/Descent Line.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/IMG_5779.JPG" style="margin-bottom: 8px;">
