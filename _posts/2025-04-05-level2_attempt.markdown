@@ -27,7 +27,6 @@ The Rockets were for certifications, for the following members:
   <img src="/assets/posts/2025-04-05/keara.JPG" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/barry.JPG" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/Kearas.png" style="margin-bottom: 8px;">
-  <img src="/assets/posts/2025-04-05/kearas.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/chisom.JPG" style="margin-bottom: 8px;">
 </div>
 
@@ -53,7 +52,6 @@ The Rockets were for certifications, for the following members:
 
 ### Photos:
 <div style="text-align: center;">
-  <img src="/assets/posts/2025-04-05/Screenshot 2025-04-07 at 3.18.09 PM.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/level2_launch.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/LandingArea.png" style="margin-bottom: 8px;">
   <img src="/assets/posts/2025-04-05/Descent Line.png" style="margin-bottom: 8px;">
